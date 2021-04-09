@@ -37,8 +37,7 @@ namespace testenet5
 
             
 
-            var custom = Configuration.GetSection("fsdfsd") as valores ;
-            var hh = custom.valor / 2;
+            
 
         }
 
