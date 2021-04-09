@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {}
+    "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {}
   },
   "projects": {
-    "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {
+    "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
+        "projectUniqueName": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
         "projectName": "testenet5",
-        "projectPath": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
+        "projectPath": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
         "packagesPath": "C:\\Users\\mendocs\\.nuget\\packages\\",
-        "outputPath": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\obj\\",
+        "outputPath": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mendocs\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -53,16 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
