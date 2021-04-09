@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2m4h2OxIEdaPAp29lpZQc7gl/jNVywMCYNX0Uu8dCr062tAx5qB4LXQNdEuJEDuYwbBMCGf6ennakgdJ9vdKA==",
+  "dgSpecHash": "iQTsEMYqf83xW3Khg+QrQ1/OYPZDe3NVWMCUfYHqJwGQLaj2josxQKRFxxw29McY04ePl6sxElRxb9p75bsKGw==",
   "success": true,
-  "projectFilePath": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
+  "projectFilePath": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mendocs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mendocs\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -14,6 +14,12 @@ using Microsoft.Extensions.Logging;
 
 namespace testenet5
 {
+
+
+    public class valores
+    {
+        public Int32 valor {get;set;}
+    }
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -28,6 +34,11 @@ namespace testenet5
         {
 
             services.AddControllers();
+
+            
+
+            var custom = Configuration.GetSection("fsdfsd") as valores ;
+            var hh = custom.valor / 2;
 
         }
 

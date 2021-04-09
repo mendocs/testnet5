@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {}
+    "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {}
   },
   "projects": {
-    "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {
+    "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
+        "projectUniqueName": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
         "projectName": "testenet5",
-        "projectPath": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
+        "projectPath": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\testenet5.csproj",
         "packagesPath": "C:\\Users\\mendocs\\.nuget\\packages\\",
-        "outputPath": "j:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\obj\\",
+        "outputPath": "J:\\Desenvolvimento\\Projetos\\Testes2020\\testnet5\\testenet5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mendocs\\AppData\\Roaming\\NuGet\\NuGet.Config"
